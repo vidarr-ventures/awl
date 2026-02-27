@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  background: radial-gradient(circle at top, #ffffff 0%, #fbf8f4 48%, #f4eee6 100%);
+  color: #1f1d1b;
+}
+
+.prose-awl p {
+  @apply text-base leading-relaxed text-ink-700;
+}
+
+.prose-awl h2 {
+  @apply text-2xl font-semibold text-ink-900;
+}
+
+.section-card {
+  @apply rounded-xl bg-white/85 p-6 shadow-soft backdrop-blur;
+}
+
+.section-frame {
+  @apply rounded-xl border border-sand-200 bg-white/75;
+}
