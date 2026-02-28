@@ -1,0 +1,466 @@
+{
+  "slug": "home",
+  "url": "https://adoptionswithlove.org/",
+  "title": "Adoption Agency | Open & Closed Adoptions | Adoptions With Love",
+  "h1": "A Trusted and Caring Adoption Agency",
+  "description": "Adoptions With Love is a private adoption agency offering open and closed adoptions, home study services, financial assistance for birth mothers, and more.",
+  "hero": {
+    "title": "A Trusted and Caring Adoption Agency",
+    "description": "Adoptions With Love is a private adoption agency offering open and closed adoptions, home study services, financial assistance for birth mothers, and more.",
+    "ctas": [],
+    "image": {
+      "src": "/awl-assets/home/ae0ca22c-Celebrating_badge_pink_circle_only.png",
+      "alt": "Logo Anniversary Seal",
+      "originUrl": "https://adoptionswithlove.org/wp-content/uploads/2024/06/Celebrating_badge_pink_circle_only.png"
+    }
+  },
+  "sections": [
+    {
+      "heading": "Serving expectant/birth parents and adoptive families for 40 years",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [],
+      "images": [
+        {
+          "src": "/awl-assets/home/ae0ca22c-Celebrating_badge_pink_circle_only.png",
+          "alt": "Logo Anniversary Seal",
+          "originUrl": "https://adoptionswithlove.org/wp-content/uploads/2024/06/Celebrating_badge_pink_circle_only.png"
+        },
+        {
+          "src": "/awl-assets/home/63025c0a-awl-down-arrow.svg",
+          "alt": "down to next section arrow",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/awl-down-arrow.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Meet Our Families",
+      "paragraphs": [],
+      "list": [
+        "Jenny Learn More",
+        "Joe and Mike Learn More",
+        "Nicolas and Jordanna Learn More",
+        "Dan and Lisa Learn More",
+        "Luke and Joe Learn More",
+        "Patrick and Sarah Learn More",
+        "Curran and Brittany Learn More",
+        "Jim and Mary Eileen Learn More",
+        "Aaron and Jamie Learn More",
+        "Andrew and Maneesha Learn More",
+        "Mario and Emilee Learn More"
+      ],
+      "ctas": [
+        {
+          "label": "Jenny Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Jenny",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Joe and Mike Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Joe and Mike",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Nicolas and Jordanna Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Nicolas and Jordanna",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Dan and Lisa Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Dan and Lisa",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Luke and Joe Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Luke and Joe",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Patrick and Sarah Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Patrick and Sarah",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Curran and Brittany Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Curran and Brittany",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Jim and Mary Eileen Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Jim and Mary Eileen",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Aaron and Jamie Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Aaron and Jamie",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Andrew and Maneesha Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Andrew and Maneesha",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Mario and Emilee Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Mario and Emilee",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "May Learn More",
+          "href": "javascript:;"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        }
+      ]
+    },
+    {
+      "heading": "May",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [],
+      "images": [
+        {
+          "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+          "alt": "divider",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+        },
+        {
+          "src": "/awl-assets/home/74e2eec1-feet-icon.svg",
+          "originUrl": "https://adoptionswithlove.org/wp-content/uploads/2019/03/feet-icon.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Pregnant?",
+      "paragraphs": [
+        "Facing an unplanned pregnancy? Adoption is a positive choice."
+      ],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Learn More",
+          "href": "http://adoptionswithlove.org/birthparents"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/67b78c12-heart-search-icon.svg",
+          "originUrl": "https://adoptionswithlove.org/wp-content/uploads/2019/03/heart-search-icon.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Looking to Adopt a Baby?",
+      "paragraphs": [
+        "AWL has been placing newborns into loving homes for over 40 years."
+      ],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Learn More",
+          "href": "http://adoptionswithlove.org/adoptive-parents/"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/84dbf68c-family-icon.svg",
+          "originUrl": "https://adoptionswithlove.org/wp-content/uploads/2019/03/family-icon.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Meet Our Families",
+      "paragraphs": [
+        "AWL will help you find the perfect family for your baby."
+      ],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Learn More",
+          "href": "http://adoptionswithlove.org/meet-our-families/"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/home/76ed66a3-youtube_button.svg",
+          "alt": "video play icon",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/youtube_button.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Get to Know Adoptions With Love",
+      "paragraphs": [
+        "Adoptions With Love is a private, non-profit, full-service, licensed domestic (United States) adoption agency. For 40 years, we have been assisting expectant/birth parents to make loving and thoughtful adoption plans for their children. Adoptions With Love also helps prospective adoptive parents build or expand their families through adoption. We would be honored to work with you.",
+        "Adoptions With Love offers:"
+      ],
+      "list": [
+        "Free, confidential services to expectant/birth parents, including counseling, medical, legal, and financial assistance",
+        "A full-service adoption program for hopeful adoptive parents, including a private informational meeting, complete home study, and ongoing adoption support",
+        "Personalized open, semi-open, and closed adoption plans, designed to give you peace of mind",
+        "Compassionate and highly experienced staff, available 24/7"
+      ],
+      "ctas": [],
+      "images": []
+    },
+    {
+      "heading": "An Adoption Agency that Cares",
+      "paragraphs": [
+        "Adoption is not an easy decision. However, it is one of the most selfless and loving choices a mother can make for her child. If you are considering adoption, know that we are here for you – now, throughout the adoption process, and even after the placement is finalized. That is our promise to you.",
+        "Adoptions With Love was founded in 1986 with the vision of providing compassionate and continuing care for all members of the adoption triad. As a non-profit adoption agency, our primary mission is to find the best home for each child in need, while offering lifelong support to expectant mothers, birth parents, and adoptive families. Our caring social workers are here 24 hours a day, 7 days a week to help you through the adoption process. It is not too late to make an adoption plan."
+      ],
+      "list": [
+        "A private, non-profit, full-service, and licensed adoption agency",
+        "Over 40 years of experience placing children into loving homes",
+        "Expenses paid, pressure-free adoption services for expectant/birth mothers nationwide",
+        "Full range of adoption services for hopeful parents, from home study to finalization",
+        "A highly trained and compassionate staff that will always be here for you",
+        "Open adoption agency offering open, semi-open, and closed adoption plans"
+      ],
+      "ctas": [],
+      "images": [
+        {
+          "src": "/awl-assets/home/3ed54845-6-NCFA-Member-Seal-Color.png",
+          "alt": "National Council for Adoption",
+          "originUrl": "http://adoptionswithlove.org/wp-content/uploads/2025/08/6-NCFA-Member-Seal-Color.png"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/awl-assets/home/ae0ca22c-Celebrating_badge_pink_circle_only.png",
+      "alt": "Logo Anniversary Seal",
+      "originUrl": "https://adoptionswithlove.org/wp-content/uploads/2024/06/Celebrating_badge_pink_circle_only.png"
+    },
+    {
+      "src": "/awl-assets/home/63025c0a-awl-down-arrow.svg",
+      "alt": "down to next section arrow",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/awl-down-arrow.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/2a114b70-fancy-divider.svg",
+      "alt": "divider",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/fancy-divider.svg"
+    },
+    {
+      "src": "/awl-assets/home/74e2eec1-feet-icon.svg",
+      "originUrl": "https://adoptionswithlove.org/wp-content/uploads/2019/03/feet-icon.svg"
+    },
+    {
+      "src": "/awl-assets/home/67b78c12-heart-search-icon.svg",
+      "originUrl": "https://adoptionswithlove.org/wp-content/uploads/2019/03/heart-search-icon.svg"
+    },
+    {
+      "src": "/awl-assets/home/84dbf68c-family-icon.svg",
+      "originUrl": "https://adoptionswithlove.org/wp-content/uploads/2019/03/family-icon.svg"
+    },
+    {
+      "src": "/awl-assets/home/76ed66a3-youtube_button.svg",
+      "alt": "video play icon",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/images/youtube_button.svg"
+    },
+    {
+      "src": "/awl-assets/home/3ed54845-6-NCFA-Member-Seal-Color.png",
+      "alt": "National Council for Adoption",
+      "originUrl": "http://adoptionswithlove.org/wp-content/uploads/2025/08/6-NCFA-Member-Seal-Color.png"
+    }
+  ]
+}

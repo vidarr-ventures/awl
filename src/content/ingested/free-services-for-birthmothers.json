@@ -1,0 +1,70 @@
+{
+  "slug": "free-services-for-birthmothers",
+  "url": "https://adoptionswithlove.org/free-services-for-birthmothers",
+  "title": "Emotional & Financial Assistance for Birth Mothers | Adoptions With Love",
+  "h1": "Free Adoption Services forExpectant/Birth Mothers",
+  "description": "AWL is a full-service adoption agency offering paid living expenses, financial assistance, and free adoption services to expectant/birth mothers.",
+  "hero": {
+    "title": "Free Adoption Services forExpectant/Birth Mothers",
+    "description": "AWL is a full-service adoption agency offering paid living expenses, financial assistance, and free adoption services to expectant/birth mothers.",
+    "ctas": [
+      {
+        "label": "Contact Us",
+        "href": "http://adoptionswithlove.org/contact-us/"
+      }
+    ],
+    "image": null
+  },
+  "sections": [
+    {
+      "heading": "Receive financial assistance, counseling services, legal aide, and more.",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Contact Us",
+          "href": "http://adoptionswithlove.org/contact-us/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Our goal is to help meet your basic needs. We can provide assistance such as rent, groceries, transportation, counseling, utilities, and more.",
+      "paragraphs": [
+        "Adoptions With Love provides a wide array of services from counseling and financial assistance to selecting an adoptive family to parent your child, including:",
+        "Ongoing contact also means that you can stay in touch with your adoption counselor. Adoptions With Love is recognized as one of the best adoption agencies for birth mothers, because we are here for you both now AND in the future. Many women choose to stay in touch with us over the years.",
+        "Adoptions With Love provides financial assistance to expectant/birth mothers who make an adoption plan. Adoption is an incredible sacrifice and expectant/birth mothers deserve full support – both financially and emotionally – throughout the process. Adoption is not “giving up,” it is a thoughtful, courageous, and loving plan.",
+        "If you are facing unplanned pregnancy and looking for more information, assistance and support, follow this link for our full Guide to Unplanned Pregnancy. We are here for you every step of the way."
+      ],
+      "list": [
+        "Financial assistance with utilities, phone, maternity clothing and other necessities, as needed.",
+        "Designing your adoption plan. We understand that each person has different needs. We offer you the opportunity to choose and meet the family that will adopt your baby.",
+        "Housing assistance. We can pay a deposit and several months of rent.",
+        "Complete counseling services by compassionate and experienced professionals to assist you in planning for your future and that of your baby.",
+        "Medical care. If you do not already have a doctor, we will help you find a doctor who understands your emotional and physical needs. The full services of a hospital with a supportive staff will be there for you at the time of delivery. Adoptions With Love will cover any uninsured medical expenses when you complete the adoption.",
+        "Legal assistance provided by experienced lawyers who specialize in adoption. Making sure that the rights of all those involved in the adoption process are respected and upheld is our utmost priority.",
+        "Ongoing contact through pictures and letters from the adoptive family of your child over the years. These letters and pictures are always available to you if and when you want them. You are also welcome to send letters, pictures or gifts to the child and the adoptive family. You can design an adoption plan to have ongoing face-to-face meetings with your adoptive family or maintain contact through the agency. The choices are yours."
+      ],
+      "ctas": [
+        {
+          "label": "Guide to Unplanned Pregnancy",
+          "href": "#"
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Get the Help You Deserve",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Contact Us",
+          "href": "http://adoptionswithlove.org/contact-us"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": []
+}

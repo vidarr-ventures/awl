@@ -1,0 +1,37 @@
+{
+  "slug": "areas-we-service",
+  "url": "https://adoptionswithlove.org/areas-we-service",
+  "title": "Local Adoption Agency | Areas We Service | Adoptions With Love",
+  "h1": "Local Areas We Service",
+  "description": "Adoptions With Love is a full-service, licensed, local adoption agency that works nationwide to find the best possible home for every child. If you're pregnant and considering adoption, we can help! Learn which states we service.",
+  "hero": {
+    "title": "Local Areas We Service",
+    "description": "Adoptions With Love is a full-service, licensed, local adoption agency that works nationwide to find the best possible home for every child. If you're pregnant and considering adoption, we can help! Learn which states we service.",
+    "ctas": [
+      {
+        "label": "Kansas Adoption Agency",
+        "href": "https://adoptionswithlove.org/location/kansas-adoption-agency"
+      }
+    ],
+    "image": null
+  },
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [
+        "Since 1986, Adoptions With Love has been assisting birth/expectant parents throughout the United States. We are a full-service, licensed agency that works near and far to find the best possible home for each and every child. If you are pregnant and considering adoption, or have already given birth to your baby, we extend our support to you.",
+        "Adoptions With Love operates nationwide to help expectant/birth mothers through the adoption journey. Our team of highly qualified and compassionate professionals is here to make you feel as comfortable as possible. We offer professional, confidential services to expectant/birth mothers free of charge. No matter where you are, we are available to help you design the best adoption plan for your baby. You will always have the option of an open, semi-open, or closed adoption plan at Adoptions With Love.",
+        "Adoptions With Love services expectant/birth mothers across the country. We have recently worked in:"
+      ],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Kansas Adoption Agency",
+          "href": "https://adoptionswithlove.org/location/kansas-adoption-agency"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": []
+}

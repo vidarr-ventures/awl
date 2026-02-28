@@ -1,15 +1,15 @@
-import { site } from "@/content/core";
+import { siteContent } from "@/content/ingested";
 
 export default function Footer() {
   return (
     <footer className="mt-16 border-t border-sand-200 bg-sand-50/80">
       <div className="mx-auto grid max-w-6xl gap-6 px-6 py-10 md:grid-cols-3">
         <div className="space-y-2 text-sm text-ink-700">
-          <p className="text-base font-semibold text-ink-900">{site.name}</p>
-          <p>Phone: {site.phone}</p>
-          <p>Text: {site.text}</p>
-          <p>Toll-Free: {site.tollFree}</p>
-          <p>Email: {site.email}</p>
+          <p className="text-base font-semibold text-ink-900">{siteContent.name}</p>
+          {siteContent.phone && <p>Phone: {siteContent.phone}</p>}
+          {siteContent.text && <p>Text: {siteContent.text}</p>}
+          {siteContent.tollFree && <p>Toll-Free: {siteContent.tollFree}</p>}
+          {siteContent.email && <p>Email: {siteContent.email}</p>}
         </div>
         <div className="space-y-2 text-sm text-ink-700">
           <p className="text-base font-semibold text-ink-900">Preview Concept</p>

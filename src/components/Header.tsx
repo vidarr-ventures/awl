@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import { site } from "@/content/core";
+import { siteContent } from "@/content/ingested";
 
 export default function Header() {
   return (
@@ -9,28 +9,32 @@ export default function Header() {
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-2 text-sm text-ink-700">
           <span className="font-semibold">Free. Confidential. No pressure.</span>
           <div className="flex items-center gap-4">
-            <span>Call: {site.phone}</span>
-            <span>Text: {site.text}</span>
+            {siteContent.phone && <span>Call: {siteContent.phone}</span>}
+            {siteContent.text && <span>Text: {siteContent.text}</span>}
           </div>
         </div>
       </div>
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <Link href="/" className="text-lg font-semibold text-ink-900">
-          {site.name}
+          {siteContent.name}
         </Link>
         <div className="flex items-center gap-2">
-          <Link
-            href={`tel:${site.phone}`}
-            className="hidden sm:inline-flex rounded-full border border-ink-900 px-4 py-2 text-sm font-semibold text-ink-900"
-          >
-            Call 24/7
-          </Link>
-          <Link
-            href={`sms:${site.text}`}
-            className="rounded-full bg-rose-500 px-4 py-2 text-sm font-semibold text-white"
-          >
-            Text Now
-          </Link>
+          {siteContent.phoneLink && (
+            <Link
+              href={`tel:${siteContent.phoneLink}`}
+              className="hidden sm:inline-flex rounded-full border border-ink-900 px-4 py-2 text-sm font-semibold text-ink-900"
+            >
+              Call 24/7
+            </Link>
+          )}
+          {siteContent.textLink && (
+            <Link
+              href={`sms:${siteContent.textLink}`}
+              className="rounded-full bg-rose-500 px-4 py-2 text-sm font-semibold text-white"
+            >
+              Text Now
+            </Link>
+          )}
         </div>
       </div>
     </header>

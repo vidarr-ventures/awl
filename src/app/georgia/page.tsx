@@ -1,13 +1,17 @@
 import type { Metadata } from "next";
 
 import StateTemplate from "@/components/StateTemplate";
-import { states } from "@/content/states";
+import { statePages } from "@/content/states";
+import { metroPages } from "@/content/metros";
+
+const page = statePages.georgia;
 
 export const metadata: Metadata = {
-  title: "Georgia Adoption Support",
-  description: "Free. Confidential. No pressure."
+  title: page.title || "Georgia Adoption Support",
+  description: page.description
 };
 
 export default function GeorgiaPage() {
-  return <StateTemplate content={states.georgia} />;
+  const metros = Object.values(metroPages).filter((metro) => metro.parentStateSlug === "georgia");
+  return <StateTemplate page={page} metros={metros} />;
 }

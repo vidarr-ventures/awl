@@ -1,13 +1,15 @@
 import type { Metadata } from "next";
 
 import CrisisTemplate from "@/components/CrisisTemplate";
-import { crisis } from "@/content/crisis";
+import { crisisPages } from "@/content/crisis";
+
+const page = crisisPages["can-i-change-my-mind"];
 
 export const metadata: Metadata = {
-  title: "Can I Change My Mind",
-  description: "Free. Confidential. No pressure."
+  title: page.title || "Can I Change My Mind",
+  description: page.description
 };
 
-export default function CanIChangeMyMindPage() {
-  return <CrisisTemplate content={crisis["can-i-change-my-mind"]} />;
+export default function CrisisPage() {
+  return <CrisisTemplate page={page} />;
 }

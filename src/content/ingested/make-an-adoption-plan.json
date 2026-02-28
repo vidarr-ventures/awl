@@ -1,0 +1,116 @@
+{
+  "slug": "make-an-adoption-plan",
+  "url": "https://adoptionswithlove.org/make-an-adoption-plan",
+  "title": "Make an Adoption Plan for Your Baby | Adoptions With Love",
+  "h1": "Make the Adoption Plan that is Right for You",
+  "description": "Adoptions With Love offers open and closed adoption plans. You can choose the adoptive parents. Learn about your options and how to make an adoption plan.",
+  "hero": {
+    "title": "Make the Adoption Plan that is Right for You",
+    "description": "Adoptions With Love offers open and closed adoption plans. You can choose the adoptive parents. Learn about your options and how to make an adoption plan.",
+    "ctas": [
+      {
+        "label": "Contact Us",
+        "href": "http://adoptionswithlove.org/contact-us/"
+      }
+    ],
+    "image": {
+      "src": "/awl-assets/make-an-adoption-plan/444b928c-pink-quote.svg",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/pink-quote.svg"
+    }
+  },
+  "sections": [
+    {
+      "heading": "Learn about all your adoption options.",
+      "paragraphs": [],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Contact Us",
+          "href": "http://adoptionswithlove.org/contact-us/"
+        }
+      ],
+      "images": [
+        {
+          "src": "/awl-assets/make-an-adoption-plan/444b928c-pink-quote.svg",
+          "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/pink-quote.svg"
+        }
+      ]
+    },
+    {
+      "heading": "Your wishes for your baby are important to us and are respected.",
+      "paragraphs": [
+        "Adoptions With Love’s counselors are highly skilled, dedicated, and caring professionals who have been working together for over 40 years. Our services meet the highest ethical and professional standards. All services are completely confidential and are provided at no charge to you. We will help you create an adoption plan that is comfortable for you."
+      ],
+      "list": [],
+      "ctas": [],
+      "images": []
+    },
+    {
+      "heading": "Your wishes for your baby are always respected.",
+      "paragraphs": [
+        "We invite you to tell us about the kind of family you want for your baby. Perhaps you wish your child to be raised in a certain religious faith, or as part of a family that shares the same interests as you, or looks similar to you."
+      ],
+      "list": [],
+      "ctas": [],
+      "images": []
+    },
+    {
+      "heading": "Our goal is to place your baby with the adoptive family as soon as possible.",
+      "paragraphs": [
+        "Within a short time after you sign legal papers allowing the baby to be adopted, he/she will be in the adoptive home filled with love and security. We encourage you to meet with the adoptive family before or at the time of placement. They will come to you, wherever you are."
+      ],
+      "list": [],
+      "ctas": [],
+      "images": []
+    },
+    {
+      "heading": "We encourage you to give pictures of yourself, personal mementos, or a letter written to your child explaining why you chose adoption for him or her.",
+      "paragraphs": [
+        "These things will be given to the child by the adoptive parents when questions come up about you and your choice of adoption. You will never be forgotten and the adoptive parents will share information with the child at an appropriate age."
+      ],
+      "list": [
+        "You can feel secure knowing that your baby will be loved and cherished by the adoptive family you choose.",
+        "You will have the opportunity to know how your child is doing through letter updates and photos from the adoptive family.",
+        "You can send letters or gifts to the agency and we will ensure that your child receives them.",
+        "Adoptions With Love can assist with search and reunion in the future.",
+        "If you choose, Adoptions With Love can be a part of your life forever."
+      ],
+      "ctas": [],
+      "images": []
+    },
+    {
+      "heading": "Open Adoption Plan:",
+      "paragraphs": [
+        "Open Adoption can mean something different to each person involved in adoption. When expectant parents make an adoption plan with Adoptions with Love, you can make the type of open adoption plan that works best for you."
+      ],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Learn More",
+          "href": "http://adoptionswithlove.org/open-adoption"
+        }
+      ],
+      "images": []
+    },
+    {
+      "heading": "Closed Adoption Plan:",
+      "paragraphs": [
+        "Adoptions With Love helps expectant/birth parents make the type of adoption plan that fits your needs. No two people are alike and each adoption plan is unique to the person making it. It is for this reason that we offer closed adoption plans for some birth parents who are considering adoption for their newborn infant."
+      ],
+      "list": [],
+      "ctas": [
+        {
+          "label": "Learn More",
+          "href": "http://adoptionswithlove.org/closed-adoption"
+        }
+      ],
+      "images": []
+    }
+  ],
+  "images": [
+    {
+      "src": "/awl-assets/make-an-adoption-plan/444b928c-pink-quote.svg",
+      "originUrl": "https://adoptionswithlove.org/wp-content/themes/awl/assets/pink-quote.svg"
+    }
+  ]
+}

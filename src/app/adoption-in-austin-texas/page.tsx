@@ -1,13 +1,15 @@
 import type { Metadata } from "next";
 
 import MetroTemplate from "@/components/MetroTemplate";
-import { metros } from "@/content/metros";
+import { metroPages } from "@/content/metros";
+
+const page = metroPages["adoption-in-austin-texas"];
 
 export const metadata: Metadata = {
-  title: "Adoption in Austin, Texas",
-  description: "Free. Confidential. No pressure."
+  title: page.title || "Adoption in Austin, Texas",
+  description: page.description
 };
 
-export default function AustinPage() {
-  return <MetroTemplate content={metros["adoption-in-austin-texas"]} />;
+export default function MetroPage() {
+  return <MetroTemplate page={page} />;
 }

@@ -1,13 +1,15 @@
 import type { Metadata } from "next";
 
 import CrisisTemplate from "@/components/CrisisTemplate";
-import { crisis } from "@/content/crisis";
+import { crisisPages } from "@/content/crisis";
+
+const page = crisisPages["can-i-choose-the-family"];
 
 export const metadata: Metadata = {
-  title: "Can I Choose the Family",
-  description: "Free. Confidential. No pressure."
+  title: page.title || "Can I Choose the Family",
+  description: page.description
 };
 
-export default function CanIChooseTheFamilyPage() {
-  return <CrisisTemplate content={crisis["can-i-choose-the-family"]} />;
+export default function CrisisPage() {
+  return <CrisisTemplate page={page} />;
 }

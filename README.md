@@ -2,10 +2,24 @@
 
 Private redesign preview for Adoptions With Love. Not intended for indexing.
 
-## Run
+## Ingest (Required)
+
+This project pulls real copy and images from AWL pages. Run the ingest script before `dev` or `build`.
 
 ```bash
 npm install
+npm run ingest
+```
+
+The ingest script will:
+- Fetch the source URLs
+- Extract headings, paragraphs, lists, CTAs, and images
+- Download images into `public/awl-assets/<page>/`
+- Write structured JSON content files into `src/content/ingested/`
+
+## Run
+
+```bash
 npm run dev
 ```
 
@@ -14,51 +28,35 @@ npm run build
 npm run start
 ```
 
-## Vercel Deployment Checklist
-
-1. Confirm `robots.txt` returns a site-wide disallow.
-2. Verify `<meta name="robots" content="noindex,nofollow">` is present on all pages.
-3. Confirm no canonical tags point to production unless explicitly desired.
-4. Validate FAQ JSON-LD is present on FAQ, crisis, and state/metro pages.
-5. Ensure no environment variables are required (none are used).
-
 ## Routes
 
 Core:
 - `/`
-- `/birthparents`
-- `/free-services-for-birthmothers`
-- `/make-an-adoption-plan`
-- `/open-adoption`
-- `/closed-adoption`
-- `/birthmother-questions`
-- `/areas-we-service`
-- `/contact-us`
 - `/about-this-demo`
 
 States:
-- `/location/texas-adoption`
-- `/location/florida-adoption`
-- `/location/georgia-adoption`
-- `/location/north-carolina-adoption`
-- `/location/ohio-adoption`
+- `/texas`
+- `/florida`
+- `/georgia`
+- `/north-carolina`
+- `/ohio`
 
 Metro:
-- `/location/texas-adoption/houston`
-- `/location/texas-adoption/dallas`
-- `/location/texas-adoption/austin`
-- `/location/florida-adoption/miami`
-- `/location/florida-adoption/orlando`
-- `/location/florida-adoption/tampa`
-- `/location/georgia-adoption/atlanta`
-- `/location/georgia-adoption/savannah`
-- `/location/georgia-adoption/augusta`
-- `/location/north-carolina-adoption/charlotte`
-- `/location/north-carolina-adoption/raleigh`
-- `/location/north-carolina-adoption/greensboro`
-- `/location/ohio-adoption/columbus`
-- `/location/ohio-adoption/cleveland`
-- `/location/ohio-adoption/cincinnati`
+- `/adoption-in-houston-texas`
+- `/adoption-in-dallas-texas`
+- `/adoption-in-austin-texas`
+- `/adoption-in-miami-florida`
+- `/adoption-in-orlando-florida`
+- `/adoption-in-tampa-florida`
+- `/adoption-in-atlanta-georgia`
+- `/adoption-in-savannah-georgia`
+- `/adoption-in-augusta-georgia`
+- `/adoption-in-charlotte-north-carolina`
+- `/adoption-in-raleigh-north-carolina`
+- `/adoption-in-greensboro-north-carolina`
+- `/adoption-in-columbus-ohio`
+- `/adoption-in-cleveland-ohio`
+- `/adoption-in-cincinnati-ohio`
 
 Crisis:
 - `/can-i-place-after-birth`
@@ -69,3 +67,9 @@ Crisis:
 - `/safe-haven-vs-adoption`
 - `/can-i-have-contact-open-adoption`
 - `/can-i-change-my-mind`
+
+## Indexing Controls
+
+- Global `noindex,nofollow` metadata in `src/app/layout.tsx`
+- `robots.ts` disallow all
+- `X-Robots-Tag: noindex, nofollow` via `next.config.mjs`
